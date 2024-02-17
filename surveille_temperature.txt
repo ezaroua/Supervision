@@ -1,0 +1,458 @@
+[2024-01-28 20:55:07] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 20:55:07] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 20:55:07] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 20:55:07] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 20:55:07] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 20:55:08] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 20:55:08] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 20:55:08] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 20:55:08] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 20:55:08] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 20:55:09] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 20:55:09] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 20:55:09] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 20:55:09] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:19] [2024-01-28 21:13:19] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:19] [2024-01-28 21:13:19] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:19] [2024-01-28 21:13:19] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:19] [2024-01-28 21:13:19] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:19] [2024-01-28 21:13:19] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:20] [2024-01-28 21:13:20] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:20] [2024-01-28 21:13:20] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:20] [2024-01-28 21:13:20] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:20] [2024-01-28 21:13:20] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:20] [2024-01-28 21:13:20] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:21] [2024-01-28 21:13:21] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:21] [2024-01-28 21:13:21] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:21] [2024-01-28 21:13:21] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:21] [2024-01-28 21:13:21] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:21] [2024-01-28 21:13:21] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:22] [2024-01-28 21:13:22] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:22] [2024-01-28 21:13:22] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:22] [2024-01-28 21:13:22] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:22] [2024-01-28 21:13:22] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:22] [2024-01-28 21:13:22] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:23] [2024-01-28 21:13:23] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:23] [2024-01-28 21:13:23] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:23] [2024-01-28 21:13:23] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:23] [2024-01-28 21:13:23] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:23] [2024-01-28 21:13:23] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:24] [2024-01-28 21:13:24] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:24] [2024-01-28 21:13:24] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:24] [2024-01-28 21:13:24] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:24] [2024-01-28 21:13:24] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:24] [2024-01-28 21:13:24] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:25] [2024-01-28 21:13:25] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:25] [2024-01-28 21:13:25] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:25] [2024-01-28 21:13:25] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:25] [2024-01-28 21:13:25] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:25] [2024-01-28 21:13:25] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:26] [2024-01-28 21:13:26] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:26] [2024-01-28 21:13:26] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:26] [2024-01-28 21:13:26] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:26] [2024-01-28 21:13:26] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:26] [2024-01-28 21:13:26] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:27] [2024-01-28 21:13:27] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:27] [2024-01-28 21:13:27] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:27] [2024-01-28 21:13:27] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:27] [2024-01-28 21:13:27] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:27] [2024-01-28 21:13:27] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:28] [2024-01-28 21:13:28] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:28] [2024-01-28 21:13:28] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:28] [2024-01-28 21:13:28] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:28] [2024-01-28 21:13:28] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:28] [2024-01-28 21:13:28] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:29] [2024-01-28 21:13:29] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:29] [2024-01-28 21:13:29] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:29] [2024-01-28 21:13:29] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:29] [2024-01-28 21:13:29] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:29] [2024-01-28 21:13:29] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:30] [2024-01-28 21:13:30] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:30] [2024-01-28 21:13:30] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:30] [2024-01-28 21:13:30] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:30] [2024-01-28 21:13:30] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:30] [2024-01-28 21:13:30] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:31] [2024-01-28 21:13:31] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:31] [2024-01-28 21:13:31] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:31] [2024-01-28 21:13:31] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:31] [2024-01-28 21:13:31] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:31] [2024-01-28 21:13:31] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:32] [2024-01-28 21:13:32] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:32] [2024-01-28 21:13:32] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:32] [2024-01-28 21:13:32] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:32] [2024-01-28 21:13:32] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:32] [2024-01-28 21:13:32] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:33] [2024-01-28 21:13:33] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:33] [2024-01-28 21:13:33] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:33] [2024-01-28 21:13:33] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:33] [2024-01-28 21:13:33] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:33] [2024-01-28 21:13:33] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:34] [2024-01-28 21:13:34] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:34] [2024-01-28 21:13:34] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:34] [2024-01-28 21:13:34] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:34] [2024-01-28 21:13:34] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:34] [2024-01-28 21:13:34] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:35] [2024-01-28 21:13:35] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:35] [2024-01-28 21:13:35] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:35] [2024-01-28 21:13:35] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:35] [2024-01-28 21:13:35] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:35] [2024-01-28 21:13:35] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:36] [2024-01-28 21:13:36] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:36] [2024-01-28 21:13:36] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:36] [2024-01-28 21:13:36] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:36] [2024-01-28 21:13:36] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:36] [2024-01-28 21:13:36] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:37] [2024-01-28 21:13:37] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:37] [2024-01-28 21:13:37] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:37] [2024-01-28 21:13:37] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:37] [2024-01-28 21:13:37] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:37] [2024-01-28 21:13:37] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:38] [2024-01-28 21:13:38] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:38] [2024-01-28 21:13:38] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:38] [2024-01-28 21:13:38] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:38] [2024-01-28 21:13:38] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:38] [2024-01-28 21:13:38] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:39] [2024-01-28 21:13:39] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:39] [2024-01-28 21:13:39] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:39] [2024-01-28 21:13:39] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:39] [2024-01-28 21:13:39] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:39] [2024-01-28 21:13:39] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:40] [2024-01-28 21:13:40] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:40] [2024-01-28 21:13:40] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:40] [2024-01-28 21:13:40] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:40] [2024-01-28 21:13:40] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:40] [2024-01-28 21:13:40] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:41] [2024-01-28 21:13:41] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:41] [2024-01-28 21:13:41] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:41] [2024-01-28 21:13:41] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:41] [2024-01-28 21:13:41] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:41] [2024-01-28 21:13:41] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:42] [2024-01-28 21:13:42] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:42] [2024-01-28 21:13:42] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:42] [2024-01-28 21:13:42] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:42] [2024-01-28 21:13:42] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:42] [2024-01-28 21:13:42] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:43] [2024-01-28 21:13:43] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:43] [2024-01-28 21:13:43] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:43] [2024-01-28 21:13:43] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:43] [2024-01-28 21:13:43] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:43] [2024-01-28 21:13:43] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:44] [2024-01-28 21:13:44] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:44] [2024-01-28 21:13:44] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:44] [2024-01-28 21:13:44] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:44] [2024-01-28 21:13:44] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:44] [2024-01-28 21:13:44] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:45] [2024-01-28 21:13:45] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:45] [2024-01-28 21:13:45] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:45] [2024-01-28 21:13:45] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:45] [2024-01-28 21:13:45] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:45] [2024-01-28 21:13:45] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:46] [2024-01-28 21:13:46] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:46] [2024-01-28 21:13:46] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:46] [2024-01-28 21:13:46] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:46] [2024-01-28 21:13:46] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:46] [2024-01-28 21:13:46] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:47] [2024-01-28 21:13:47] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:47] [2024-01-28 21:13:47] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:47] [2024-01-28 21:13:47] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:47] [2024-01-28 21:13:47] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:47] [2024-01-28 21:13:47] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:48] [2024-01-28 21:13:48] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:48] [2024-01-28 21:13:48] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:48] [2024-01-28 21:13:48] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:48] [2024-01-28 21:13:48] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:48] [2024-01-28 21:13:48] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:49] [2024-01-28 21:13:49] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:49] [2024-01-28 21:13:49] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:49] [2024-01-28 21:13:49] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:49] [2024-01-28 21:13:49] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:49] [2024-01-28 21:13:49] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:50] [2024-01-28 21:13:50] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:50] [2024-01-28 21:13:50] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:50] [2024-01-28 21:13:50] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:50] [2024-01-28 21:13:50] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:50] [2024-01-28 21:13:50] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:51] [2024-01-28 21:13:51] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:51] [2024-01-28 21:13:51] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:51] [2024-01-28 21:13:51] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:51] [2024-01-28 21:13:51] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:51] [2024-01-28 21:13:51] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:52] [2024-01-28 21:13:52] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:52] [2024-01-28 21:13:52] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:52] [2024-01-28 21:13:52] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:52] [2024-01-28 21:13:52] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:52] [2024-01-28 21:13:52] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:53] [2024-01-28 21:13:53] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:53] [2024-01-28 21:13:53] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:53] [2024-01-28 21:13:53] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:53] [2024-01-28 21:13:53] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:53] [2024-01-28 21:13:53] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:54] [2024-01-28 21:13:54] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:54] [2024-01-28 21:13:54] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:54] [2024-01-28 21:13:54] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:54] [2024-01-28 21:13:54] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:54] [2024-01-28 21:13:54] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:55] [2024-01-28 21:13:55] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:55] [2024-01-28 21:13:55] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:55] [2024-01-28 21:13:55] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:55] [2024-01-28 21:13:55] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:55] [2024-01-28 21:13:55] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:56] [2024-01-28 21:13:56] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:56] [2024-01-28 21:13:56] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:56] [2024-01-28 21:13:56] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:56] [2024-01-28 21:13:56] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:56] [2024-01-28 21:13:56] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:57] [2024-01-28 21:13:57] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:57] [2024-01-28 21:13:57] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:57] [2024-01-28 21:13:57] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:57] [2024-01-28 21:13:57] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:57] [2024-01-28 21:13:57] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:58] [2024-01-28 21:13:58] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:58] [2024-01-28 21:13:58] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:58] [2024-01-28 21:13:58] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:58] [2024-01-28 21:13:58] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:58] [2024-01-28 21:13:58] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:13:59] [2024-01-28 21:13:59] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:13:59] [2024-01-28 21:13:59] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:13:59] [2024-01-28 21:13:59] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:13:59] [2024-01-28 21:13:59] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:13:59] [2024-01-28 21:13:59] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:14:00] [2024-01-28 21:14:00] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:14:00] [2024-01-28 21:14:00] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:14:00] [2024-01-28 21:14:00] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:14:00] [2024-01-28 21:14:00] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:14:00] [2024-01-28 21:14:00] Température hors limites dans la salle 20 (7.00°C)
+
+[2024-01-28 21:14:01] [2024-01-28 21:14:01] Température hors limites dans la salle 4 (7.00°C)
+
+[2024-01-28 21:14:01] [2024-01-28 21:14:01] Température hors limites dans la salle 8 (7.00°C)
+
+[2024-01-28 21:14:01] [2024-01-28 21:14:01] Température hors limites dans la salle 12 (7.00°C)
+
+[2024-01-28 21:14:01] [2024-01-28 21:14:01] Température hors limites dans la salle 16 (7.00°C)
+
+[2024-01-28 21:14:01] [2024-01-28 21:14:01] Température hors limites dans la salle 20 (7.00°C)
+

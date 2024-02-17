@@ -1,0 +1,5 @@
+[] Porte de la salle 1 fermée automatiquement.
+[] Porte de la salle 1 fermée automatiquement.
+[] Porte de la salle 2 fermée automatiquement.
+[] Porte de la salle 1 fermée automatiquement.
+[] Porte de la salle 2 fermée automatiquement.
